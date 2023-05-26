@@ -7,23 +7,23 @@ https://github.com/talhatelci/animated-curve/assets/94738965/28b2b5d6-5c59-40a7-
 Clone the project
 
 ```bash
-  git clone https://github.com/talhatelci/animated-curve
+git clone https://github.com/talhatelci/animated-curve
 ```
 
 Go to the project directory
 
 ```bash
-  cd animated-curve
+cd animated-curve
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run dev
+npm run dev
 ```
